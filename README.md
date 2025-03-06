@@ -47,8 +47,8 @@ Cardiovascular diseases are one of the leading causes of death worldwide. Early 
 ```bash
 /heart-disease-analysis
     ├── data/               # Dataset files
-    ├── notebooks/          # Jupyter Notebooks for analysis
+    ├── code/               # Py script for analysis
     ├── models/             # Machine Learning models
-    ├── dashboards/         # Power BI/Tableau visualizations
+    ├── dashboards/         # Power BI visualizations
     ├── sql_queries/        # SQL queries for data analysis
     ├── README.md           # Project documentation
